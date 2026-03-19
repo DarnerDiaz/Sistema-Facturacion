@@ -1,6 +1,33 @@
-# Sistema de Facturación Moderno
+# 📋 Sistema de Facturación Moderno - Full Stack Enterprise
 
-Un sistema completo de facturación empresarial construido con tecnologías modernas y profesionales.
+<div align="center">
+
+**Sistema completo de facturación empresarial con frontend moderno y backend robusto**
+
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/DarnerDiaz/Sistema-Facturacion/releases)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue)](https://www.postgresql.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/DarnerDiaz/Sistema-Facturacion)](https://github.com/DarnerDiaz/Sistema-Facturacion/issues)
+
+[🚀 Features](#-características) • [💻 Stack](#-stack-tecnológico) • [📦 Setup](#-instalación) • [🤝 Contributing](#-contributing)
+
+</div>
+
+---
+
+## ✨ Acerca del Proyecto
+
+**Sistema de Facturación** es una solución empresarial completa para gestionar facturas, clientes y productos. Construido con **Next.js + Node.js + PostgreSQL**, demostrando arquitectura full-stack profesional.
+
+**Para quién es:**
+- 💼 Pequeños y medianos negocios
+- 🏢 Empresas que necesitan facturación digital
+- 👨‍💼 Freelancers y autónomos
+- 📊 Negocios que requieren reportes detallados
+
+---
 
 ## 🚀 Características
 
